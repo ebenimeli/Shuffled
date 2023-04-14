@@ -1,0 +1,63 @@
+Hola:Español
+Hello:Inglés
+Bonjour:Francés
+Hallo:Alemán
+Ciao:Italiano
+Olá:Portugués
+Привет:Ruso
+你好:Chino
+こんにちは:Japonés
+안녕하세요:Coreano
+Selamat pagi:Indonesio
+Merhaba:Turco
+Salam:Árabe
+שלום:Hebreo
+Namaste:Hindi
+Kumusta:Filipino
+Szia:Húngaro
+γεια σας:Griego
+здравствуйте:Ucraniano
+سلام:Persa
+բարև:Armenio
+Ahoj:Checo
+Zdravstvuyte:Bielorruso
+مرحبا:Árabe
+Hei:Noruego
+Sveiki:Letón
+Hej:Danés
+Labdien:Lituano
+你好:Cantonés
+Saluton:Esperanto
+Sain baina uu:Mongol
+ສະບາຍດີ:Laosiano
+Здраво:Macedonio
+Сәлеметсіз бе:Kazajo
+හෙලෝ:Cingalés
+Mbote:Lingala
+Bok:Serbio
+Привіт:Ucraniano
+გამარჯობა:Georgiano
+سلام:Urdu
+Jambo:Suajili
+Kumusta:Cebuano
+Xaç:Azerbaiyano
+Kamusta:Waray-Waray
+Բարեւ:Ararat-Armenio
+सत्सरी अकाल:Punjabi
+Salamu:Hausa
+ជំរាបសួរ:Jemer
+Buna:Rumano
+прывітанне:Bielorruso
+Xin chào:Vietnamita
+नमस्ते:Marathi
+Բարի գալուստ:Armenia Occidental
+Dobrý deň:Eslovaco
+გამარჯობა:Abjasio
+Здрасти:Búlgaro
+Tere:Estonio
+Óla:Gallego
+ಹಲೋ:Kannada
+Байна уу:Mongol
+ਸਤ ਸੀ੍ ਅਕਾਲ:Punjabi
+مرحبًا:Árabe
+Moi:Finlandés
