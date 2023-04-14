@@ -1,0 +1,85 @@
+China:Mandarín
+India:Hindi
+Estados Unidos:Inglés
+Indonesia:Indonesio
+Pakistán:Urdu
+Brasil:Portugués
+Nigeria:Inglés
+Bangladesh:Bengalí
+Rusia:Ruso
+Japón:Japonés
+México:Español
+Filipinas:Tagalo
+Vietnam:Vietnamita
+Etiopía:Oromo
+Egipto:Árabe
+República Democrática del Congo:Swahili
+Alemania:Alemán
+Turquía:Turco
+Irán:Persa
+Tailandia:Tailandés
+Francia:Francés
+Reino Unido:Inglés
+Italia:Italiano
+Myanmar:Birmano
+Corea del Sur:Coreano
+Sudáfrica:Zulú
+Tanzania:Swahili
+Colombia:Español
+Kenia:Swahili
+España:Español
+Argentina:Español
+Ucrania:Ucraniano
+Uganda:Swahili
+Argelia:Árabe
+Polonia:Polaco
+Irak:Árabe
+Canadá:Inglés
+Marruecos:Árabe
+Arabia Saudita:Árabe
+Uzbekistán:Uzbeko
+Malasia:Malayo
+Perú:Español
+Venezuela:Español
+Nepal:Nepalí
+Mozambique:Portugués
+Ghana:Inglés
+Yemen:Árabe
+Afganistán:Pashto
+Corea del Norte:Coreano
+Costa de Marfil:Francés
+Australia:Inglés
+Taiwán:Mandarín
+Siria:Árabe
+Madagascar:Malgache
+Camerún:Francés
+Rumania:Rumano
+Sri Lanka:Cingalés
+Níger:Francés
+Kazajistán:Kazajo
+Chile:Español
+Países Bajos:Holandés
+Burkina Faso:Francés
+Malí:Francés
+Guatemala:Español
+Ecuador:Español
+Malawi:Chichewa
+Zambia:Bemba
+Senegal:Francés
+Zimbabue:Shona
+Chad:Francés
+Cuba:Español
+Grecia:Griego
+Portugal:Portugués
+Bélgica:Holandés
+República Dominicana:Español
+Bolivia:Español
+Hungría:Húngaro
+Suecia:Sueco
+Bielorrusia:Bielorruso
+Emiratos Árabes Unidos:Árabe
+Honduras:Español
+Austria:Alemán
+Suiza:Alemán
+Israel:Hebreo
+Togo:Francés
