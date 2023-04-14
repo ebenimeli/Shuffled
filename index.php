@@ -68,7 +68,7 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 </div>
 
 <div id = 'credits'>
-<span>Developed by <a href = 'https://www.ebenimeli.org' target = '_blank'>Enrique Benimeli</a></span>
+<span>Developed by <a href = 'https://www.ebenimeli.org' target = '_blank'>Enrique Benimeli</a> · 2023</span>
 <span><a href = 'https://twitter.com/enriquebenimeli' target = '_blank'>@enriquebenimeli</a></span>
 </div>
 
