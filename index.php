@@ -3,7 +3,7 @@
 $topic = 'general-es-en';
 
 if ( !isset( $_GET[ 'topic' ] ) ) {
-    $random_number = rand(1, 4);
+    $random_number = rand(1, 3);
     $topic = 'data_' . $random_number;
 } else {
     $topic = $_GET[ 'topic' ];
@@ -77,8 +77,14 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 <div id = 'summary'>
 </div>
 
+<div id="playagain" class="container">
+    <div class="center">
+        <a href="https://www.esferatic.com/shuffled">Play again?</a>
+    </div>
+</div>
+
 <div id = 'credits'>
-<span>By <a href = 'https://www.ebenimeli.org' target = '_blank'>Enrique Benimeli</a> · 2023</span>
+<span>by <a href = 'https://www.ebenimeli.org' target = '_blank'>Enrique Benimeli</a> · 2023</span>
 <span>
     <a href = 'https://twitter.com/enriquebenimeli' target = '_blank'>@enriquebenimeli</a> · 
     <a href = 'https://twitter.com/esferatic' target = '_blank'>@esferatic</a>

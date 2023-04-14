@@ -28,9 +28,6 @@ preloadAudio();
 pickRandomWords();
 newWord();
 
-
-
-
 /**
  * 
  */
@@ -62,6 +59,9 @@ function preloadAudio() {
 
     audioWrong = new Audio('media/wrong.mp3');
     audioWrong.preload = 'auto';
+
+    audioWin = new Audio('media/win.mp3');
+    audioWin.preload = 'auto';
 }
 
 /**
@@ -182,14 +182,20 @@ function newWord() {
     if (j == (maxWords)) {
         appendToSummary(randomWordSrc + " = " + randomWord);
         setTimeout(function () {
+            audioWin.play();
             document.getElementById("guess").style.backgroundColor = "green";
             document.getElementById("guess").style.color = "white";
             document.getElementById("guess").value = "Congratulations!";
+            document.getElementById("guess").disabled = true;
+            
             document.getElementById("num").innerHTML = "";
             document.getElementById("word").innerHTML = "";
             document.getElementById("solution").innerHTML = "";
 
             document.getElementById("credits").style.display = "block";
+
+            document.getElementById("playagain").style.display = "block";
+
 
             // REVISAR ESTO
             const twLink = document.getElementById("twshare");

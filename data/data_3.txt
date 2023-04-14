@@ -1,40 +1,50 @@
-El Rey León: Simba
-Toy Story: Woody
-La Sirenita: Ariel
-Shrek: Shrek
-Aladdin: Aladdin
-La Bella y la Bestia: Bella
-Up: Carl Fredricksen
-Buscando a Nemo: Nemo
-Mulan: Mulan
-Wall-E: Wall-E
-Los Increíbles: Mr. Increíble
-Zootopia: Judy Hopps
-Ratatouille: Remy
-El Libro de la Selva: Mowgli
-Frozen: Elsa
-Tangled: Rapunzel
-Coco: Miguel
-Cars: Rayo McQueen
-La Princesa y el Sapo: Tiana
-Kung Fu Panda: Po
-Anastasia: Anastasia
-Los Aristogatos: Duquesa
-Tarzán: Tarzán
-La Cenicienta: Cenicienta
-Pocahontas: Pocahontas
-Peter Pan: Peter Pan
-La Dama y el Vagabundo: Reina
-Hércules: Hércules
-Robin Hood: Robin Hood
-Bambi: Bambi
-Los Tres Caballeros: Pato Donald
-La Era del Hielo: Manny
-Los Rescatadores: Bernard
-La Abeja Maya: Maya
-El Gato con Botas: Gato con Botas
-Los Pitufos: Pitufo
-Dumbo: Dumbo
-La Gran Aventura de Winnie the Pooh: Winnie the Pooh
-El Zorro y el Sabueso: Tod
-La Cigueña Blanca: Lucky
+Alabama: Montgomery
+Alaska: Juneau
+Arizona: Phoenix
+Arkansas: Little Rock
+California: Sacramento
+Colorado: Denver
+Connecticut: Hartford
+Delaware: Dover
+Florida: Tallahassee
+Georgia: Atlanta
+Hawaii: Honolulu
+Idaho: Boise
+Illinois: Springfield
+Indiana: Indianapolis
+Iowa: Des Moines
+Kansas: Topeka
+Kentucky: Frankfort
+Louisiana: Baton Rouge
+Maine: Augusta
+Maryland: Annapolis
+Massachusetts: Boston
+Michigan: Lansing
+Minnesota: St. Paul
+Mississippi: Jackson
+Missouri: Jefferson City
+Montana: Helena
+Nebraska: Lincoln
+Nevada: Carson City
+New Hampshire: Concord
+New Jersey: Trenton
+New Mexico: Santa Fe
+New York: Albany
+North Carolina: Raleigh
+North Dakota: Bismarck
+Ohio: Columbus
+Oklahoma: Oklahoma City
+Oregon: Salem
+Pennsylvania: Harrisburg
+Rhode Island: Providence
+South Carolina: Columbia
+South Dakota: Pierre
+Tennessee: Nashville
+Texas: Austin
+Utah: Salt Lake City
+Vermont: Montpelier
+Virginia: Richmond
+Washington: Olympia
+West Virginia: Charleston
+Wisconsin: Madison
+Wyoming: Cheyenne
