@@ -44,6 +44,15 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 <html>
 
 <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RE35635XG0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RE35635XG0');
+</script>
 <title>Words!</title>
 <link rel = 'stylesheet' type = 'text/css' href = 'css/style.css'>
 <meta charset = 'UTF-8'>
