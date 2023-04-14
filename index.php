@@ -3,7 +3,7 @@
 $topic = 'general-es-en';
 
 if ( !isset( $_GET[ 'topic' ] ) ) {
-    $random_number = rand(1, 7);
+    $random_number = rand(1, 8);
     $topic = 'data_' . $random_number;
 } else {
     $topic = $_GET[ 'topic' ];
