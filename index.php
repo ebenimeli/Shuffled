@@ -79,7 +79,7 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 
 <div id="playagain" class="container">
     <div class="center">
-        <a href="https://www.esferatic.com/shuffled">Play again?</a>
+        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $topic; ?>">Play again?</a>
     </div>
 </div>
 
