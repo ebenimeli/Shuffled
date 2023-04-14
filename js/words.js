@@ -29,14 +29,16 @@ pickRandomWords();
 newWord();
 
 
+
+
 /**
  * 
  */
 function pickRandomWords() {
     while (randomItems.length < maxWords) {
         const randomIndex = Math.floor(Math.random() * words.length);
-        const randomElement = words[randomIndex];
-        const randomElementSrc = wordsES[randomIndex];
+        let randomElement = words[randomIndex];
+        let randomElementSrc = wordsES[randomIndex];
 
         if (!randomItems.includes(randomElement)) {
             randomItems.push(randomElement);
@@ -144,6 +146,9 @@ function newWord() {
 
     randomWord = randomItems[i];
     randomWordSrc = randomItemsSrc[i];
+
+    randomWord = randomWord.toUpperCase();
+    randomWordSrc = randomWordSrc.toUpperCase();
 
     wArray = [];
     wArray = randomWord.split('');
@@ -305,4 +310,7 @@ function appendToSummary(text) {
     myDiv.appendChild(mySpan);
 }
 
-
+const wordInput = document.getElementById('guess');
+wordInput.addEventListener('input', function() {
+  this.value = this.value.toUpperCase();
+});
