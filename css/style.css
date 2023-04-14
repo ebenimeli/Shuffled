@@ -115,11 +115,14 @@ body {
     color: white;
 }
 
+#playagain {
+    margin-top: 15px;
+}
+
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 15px;
     /*height: 100vh;*/
     display: none;
 }

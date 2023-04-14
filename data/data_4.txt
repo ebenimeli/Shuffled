@@ -1,0 +1,50 @@
+Afganistán: Kabul
+Alemania: Berlín
+Arabia Saudita: Riad
+Argentina: Buenos Aires
+Australia: Canberra
+Brasil: Brasilia
+Canadá: Ottawa
+China: Pekín
+Colombia: Bogotá
+Corea del Norte: Pyongyang
+Corea del Sur: Seúl
+Costa Rica: San José
+Cuba: La Habana
+Dinamarca: Copenhague
+Ecuador: Quito
+Egipto: El Cairo
+España: Madrid
+Estados Unidos: Washington D.C.
+Filipinas: Manila
+Francia: París
+Grecia: Atenas
+Guatemala: Ciudad de Guatemala
+Haití: Puerto Príncipe
+Honduras: Tegucigalpa
+India: Nueva Delhi
+Indonesia: Yakarta
+Irak: Bagdad
+Irán: Teherán
+Italia: Roma
+Japón: Tokio
+Jordania: Amán
+México: Ciudad de México
+Nicaragua: Managua
+Nigeria: Abuja
+Noruega: Oslo
+Pakistán: Islamabad
+Panamá: Ciudad de Panamá
+Perú: Lima
+Polonia: Varsovia
+Portugal: Lisboa
+Reino Unido: Londres
+Rusia: Moscú
+Sudáfrica: Pretoria/Ciudad del Cabo/Bloemfontein
+Suecia: Estocolmo
+Suiza: Berna
+Turquía: Ankara
+Ucrania: Kiev
+Uruguay: Montevideo
+Venezuela: Caracas
+Vietnam: Hanói

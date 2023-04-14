@@ -3,7 +3,7 @@
 $topic = 'general-es-en';
 
 if ( !isset( $_GET[ 'topic' ] ) ) {
-    $random_number = rand(1, 3);
+    $random_number = rand(1, 4);
     $topic = 'data_' . $random_number;
 } else {
     $topic = $_GET[ 'topic' ];
@@ -92,9 +92,6 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 <span>
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Play and learn new words!" data-url="https://www.esferatic.com/shuffled/" data-via="esferatic" data-hashtags="words" data-related="esferatic" data-show-count="false">Tweet</a>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</span>
-</div>
-
 <script src = 'js/words.js'></script>
 
 </body>
