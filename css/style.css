@@ -1,0 +1,116 @@
+body {
+    margin-top: 150px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: black;
+    color: white;
+}
+
+#credits {
+    /*display: none;*/
+    text-align: center;
+    border-top: 1px solid #dcdcdc;
+    margin-top: 20px;
+    padding-top: 10px;
+    color: #dcdcdc;
+    font-size: 12px;
+}
+
+#credits * {
+    font-size: 12px;
+    color: #dcdcdc;
+
+}
+
+#credits span {
+    font-size: 10px;
+    color: #dcdcdc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    padding-bottom: 12px;
+    color: #dcdcdc;
+
+}
+
+
+
+#num {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#points {
+    margin-top: 20px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.circle-border {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+#word {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*height: 100vh;*/
+    /* opcional, para centrar verticalmente */
+}
+
+#solution {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#summary {
+    margin-top: 10px;
+    /*border-top: 1px dotted white;*/
+}
+
+#summary span {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+}
+
+#user {
+    text-align: center;
+}
+
+#guess {
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+}
+
+#word span {
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 80px;
+    margin: 5px;
+}
+
+#word .correct {
+    background-color: green;
+    color: white;
+}

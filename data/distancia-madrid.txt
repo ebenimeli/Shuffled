@@ -1,0 +1,40 @@
+625: Barcelona
+355: Valencia
+541: Sevilla
+314: Zaragoza
+539: Málaga
+399: Murcia
+655: Palma de Mallorca
+1970: Las Palmas de Gran Canaria
+395: Bilbao
+423: Alicante
+400: Córdoba
+192: Valladolid
+613: Vigo
+451: Gijón
+625: L'Hospitalet de Llobregat
+607: La Coruña
+430: Granada
+351: Vitoria-Gasteiz
+424: Elche
+622: Badalona
+426: Cartagena
+512: Tarragona
+618: Jerez de la Frontera
+627: Sabadell
+16: Móstoles
+35: Alcalá de Henares
+407: Pamplona
+20: Fuenlabrada
+536: Almería
+471: San Sebastián
+12: Leganés
+13: Getafe
+430: Santander
+242: Burgos
+349: Castellón de la Plana
+245: Albacete
+16: Alcorcón
+1960: San Cristóbal de La Laguna
+320: Logroño
+617: Huelva

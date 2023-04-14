@@ -1,0 +1,48 @@
+Apostel:Apóstol
+Beichte:Confesión
+Bischof:Obispo
+Christentum:Cristianismo
+Dom:Catedral
+Erzengel:Arcángel
+Fasten:Cuaresma
+Fronleichnam:Corpus Christi
+Gebet:Oración
+Glocke:Campana
+Gottesdienst:Misa
+Heiliger:Santo
+Himmel:Cielo
+Jünger:Discípulo
+Kapelle:Capilla
+Kathedrale:Catedral
+Kommunion:Comunión
+Kreuz:Cruz
+Kruzifix:Cristo crucificado
+Läuten:Toque de campanas
+Liturgie:Liturgia
+Messe:Misa
+Messdiener:Monaguillo
+Mönch:Monje
+Nonne:Monja
+Ostern:Pascua
+Papst:Papa
+Pfarrer:Párroco
+Predigt:Sermón
+Priester:Sacerdote
+Prozession:Procesión
+Religion:Religión
+Ritus:Rito
+Rosenkranz:Rosario
+Sakrament:Sacramento
+Salbung:Unción
+Segen:Bendición
+Seelenheil:Salvación
+Taufe:Bautismo
+Trinität:Santísima Trinidad
+Vaterunser:Padrenuestro
+Vergebung:Perdón
+Vesper:Vísperas
+Weihrauch:Incienso
+Weihnachten:Navidad
+Weihwasser:Agua bendita
+Wunder:Milagro
+Zölibat:Celibato

@@ -1,0 +1,40 @@
+Trajano: 53
+San Isidro de Sevilla: 560
+Rodrigo Díaz de Vivar (El Cid): 1043
+Gonzalo de Berceo: 1198
+Fernando III de Castilla: 1201
+Alfonso X el Sabio: 1221
+Jaime I el Conquistador: 1208
+Ramón Llull: 1232
+Gonzalo de Berceo: 1198
+Fernán Pérez de Guzmán: 1290
+Enrique de Villena: 1384
+Isabel la Católica: 1451
+Hernán Cortés: 1485
+Francisco de Vitoria: 1483
+Carlos V: 1500
+Felipe II: 1527
+Miguel de Cervantes: 1547
+Diego Velázquez: 1599
+Baltasar Gracián: 1601
+Francisco de Quevedo: 1580
+Luis de Góngora: 1561
+Diego de Saavedra Fajardo: 1584
+Felipe IV: 1605
+Diego Rodríguez de Silva y Velázquez: 1599
+Francisco de Zurbarán: 1598
+Bartolomé Esteban Murillo: 1617
+Sor Juana Inés de la Cruz: 1651
+Carlos III: 1716
+Francisco de Goya: 1746
+Manuel de Godoy: 1767
+Francisco Javier Castaños: 1758
+Mariano José de Larra: 1809
+Francisco Serrano: 1810
+Baldomero Espartero: 1793
+Emilia Pardo Bazán: 1851
+Ramón y Cajal: 1852
+Antonio Machado: 1875
+Miguel de Unamuno: 1864
+Francisco Franco: 1892
+Pablo Picasso: 1881

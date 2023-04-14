@@ -1,0 +1,40 @@
+águila:eagle
+búho:owl
+cardenal:cardinal
+colibrí:hummingbird
+cuervo:raven
+gaviota:gull
+halcón:falcon
+lechuza:barn owl
+loro:parrot
+paloma:pigeon
+pato:duck
+pavo real:peacock
+picaflor:hummingbird
+pingüino:penguin
+pollo de agua:coot
+tórtola:dove
+canario:canary
+cisne:swan
+colimbo:loon
+condor:condor
+flamenco:flamingo
+garza:heron
+grajilla:jackdaw
+halcón peregrino:peregrine falcon
+kiwi:kiwi
+martín pescador:kingfisher
+mirlo:blackbird
+oropéndola:oriole
+pájaro carpintero:woodpecker
+pato real:mallard
+pelícano:pelican
+petirrojo:robin
+pica roca:rock thrush
+ruiseñor:nightingale
+tucán:toucan
+urraca:magpie
+vencejo:swift
+vencejo común:common swift
+verdecillo:siskin
+zorzal:thrush
