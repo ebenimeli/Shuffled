@@ -2,7 +2,7 @@
 
 $topic = 'general-es-en';
 
-$next_random = "data_" . rand(1, 11);
+$next_random = "data_" . rand(1, 12);
 
 if ( !isset( $_GET[ 'topic' ] ) ) {
     $random_number = rand(1, 11);
