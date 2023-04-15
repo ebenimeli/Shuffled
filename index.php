@@ -2,6 +2,8 @@
 
 $topic = 'general-es-en';
 
+$next_random = "data_" . rand(1, 11);
+
 if ( !isset( $_GET[ 'topic' ] ) ) {
     $random_number = rand(1, 11);
     $topic = 'data_' . $random_number;
@@ -79,7 +81,8 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 
 <div id="playagain" class="container">
     <div class="center">
-        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $topic; ?>">Play again?</a>
+        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $topic; ?>">Same game</a>
+        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $next_random; ?>">Random topic</a>
     </div>
 </div>
 
