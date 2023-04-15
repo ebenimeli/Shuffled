@@ -73,7 +73,7 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 </div>
 
 <center>
-<div id = 'points'>0 points</div>
+<div id = 'points'>0 puntos</div>
 </center>
 
 <div id = 'summary'>
@@ -81,8 +81,8 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 
 <div id="playagain" class="container">
     <div class="center">
-        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $topic; ?>">Play again</a>
-        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $next_random; ?>">Random topic</a>
+        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $topic; ?>">Repetir</a>
+        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $next_random; ?>">Al azar</a>
     </div>
 </div>
 

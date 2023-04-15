@@ -185,7 +185,7 @@ function newWord() {
             audioWin.play();
             document.getElementById("guess").style.backgroundColor = "green";
             document.getElementById("guess").style.color = "white";
-            document.getElementById("guess").value = "Congratulations!";
+            document.getElementById("guess").value = "Bravo!";
             document.getElementById("guess").disabled = true;
             
             document.getElementById("num").innerHTML = "";
@@ -199,7 +199,7 @@ function newWord() {
 
             // REVISAR ESTO
             const twLink = document.getElementById("twshare");
-            twtext = wcorrect + "/" + maxWords + "%20·%20" + points + "%20points!";
+            twtext = wcorrect + "/" + maxWords + "%20·%20" + points + "%20puntos!";
 
             twhref = "https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&amp;text=" + twtext + "&amp;url=http%3A%2F%2Fwww.ebenimeli.org%2Fwords&amp;via=enriquebenimeli";
             /*
@@ -264,7 +264,7 @@ inputTexto.addEventListener("keydown", function (event) {
                 wcorrect = wcorrect + 1;
             }
             correctCounted = true;
-            document.getElementById("points").innerText = wcorrect + "/" + maxWords + " · " + points + " points";
+            document.getElementById("points").innerText = wcorrect + "/" + maxWords + " · " + points + " puntos";
         } else {
             correct = 0;
             subtractPoints(1);
@@ -276,12 +276,12 @@ inputTexto.addEventListener("keydown", function (event) {
 
 function addPoints(p) {
     points = points + p;
-    document.getElementById("points").innerText = wcorrect + "/" + maxWords + " · " + points + " points";
+    document.getElementById("points").innerText = wcorrect + "/" + maxWords + " · " + points + " puntos";
 }
 
 function subtractPoints(p) {
     points = points - p;
-    document.getElementById("points").innerText = points + " points";
+    document.getElementById("points").innerText = points + " puntos";
 }
 
 function wrongWord() {
