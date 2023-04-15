@@ -48,3 +48,103 @@ Ucrania: Kiev
 Uruguay: Montevideo
 Venezuela: Caracas
 Vietnam: Hanói
+Nauru: Yaren
+Tuvalu: Funafuti
+Palau: Ngerulmud
+San Cristóbal y Nieves: Basseterre
+Mónaco: Mónaco
+Liechtenstein: Vaduz
+San Marino: San Marino
+Palaos: Ngerulmud
+Islas Marshall: Majuro
+Dominica: Roseau
+Andorra: Andorra la Vella
+Seychelles: Victoria
+Antigua y Barbuda: Saint John's
+San Vicente y las Granadinas: Kingstown
+Santa Lucía: Castries
+Granada: Saint George's
+Comoras: Moroni
+Belice: Belmopán
+Barbados: Bridgetown
+Guinea-Bissau: Bissau
+Samoa: Apia
+Vanuatu: Port Vila
+Santo Tomé y Príncipe: Santo Tomé
+Kiribati: South Tarawa
+Tonga: Nuku'alofa
+Micronesia: Palikir
+Islas Salomón: Honiara
+São Tomé y Príncipe: São Tomé
+Maldivas: Malé
+Brunei: Bandar Seri Begawan
+Timor Oriental: Dili
+Santa Elena, Ascensión y Tristán de Acuña: Jamestown
+Dominica: Roseau
+Samoa Americana: Pago Pago
+Islas Cocos: West Island
+Tuamotu Oriental: Rikitea
+Islas Cook: Avarua
+Anguila: The Valley
+Niue: Alofi
+Islas Pitcairn: Adamstown
+Tokelau: Nukunonu
+Wallis y Futuna: Mata-Utu
+Montserrat: Plymouth
+San Pedro y Miquelón: Saint-Pierre
+Islas Vírgenes Británicas: Road Town
+Anguilla: The Valley
+Kiribati: South Tarawa
+Nauru: Yaren
+Saint-Barthélemy: Gustavia
+Saint-Martin: Marigot
+China: Pekín
+India: Nueva Delhi
+Estados Unidos: Washington D.C.
+Indonesia: Yakarta
+Pakistán: Islamabad
+Brasil: Brasilia
+Nigeria: Abuya
+Bangladesh: Daca
+Rusia: Moscú
+Japón: Tokio
+México: Ciudad de México
+Filipinas: Manila
+Egipto: El Cairo
+Etiopía: Adís Abeba
+Vietnam: Hanói
+República Democrática del Congo: Kinshasa
+Irán: Teherán
+Turquía: Ankara
+Alemania: Berlín
+Tailandia: Bangkok
+Reino Unido: Londres
+Francia: París
+Italia: Roma
+Tanzania: Dodoma
+Sudáfrica: Pretoria, Ciudad del Cabo y Bloemfontein
+Birmania: Naipyidó
+Corea del Sur: Seúl
+Colombia: Bogotá
+Kenia: Nairobi
+España: Madrid
+Ucrania: Kiev
+Argentina: Buenos Aires
+Argelia: Argel
+Polonia: Varsovia
+Uganda: Kampala
+Canadá: Ottawa
+Marruecos: Rabat
+Irak: Bagdad
+Uzbekistán: Taskent
+Arabia Saudita: Riad
+Perú: Lima
+Malasia: Kuala Lumpur
+Uzbekistán: Taskent
+Ghana: Acra
+Yemen: Saná
+Mozambique: Maputo
+Nepal: Katmandú
+Venezuela: Caracas
+Costa de Marfil: Yamusukro
+Camerún: Yaundé
