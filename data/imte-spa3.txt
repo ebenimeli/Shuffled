@@ -4,7 +4,7 @@ lawyer	:	abogado
 open	:	abrir
 grandfather/grandmother	:	abuelo
 action	:	acción
-go to (also: get close, approach)	:	acercarse
+go to (get close, approach)	:	acercarse
 advise, recommend	:	aconsejar
 activity	:	actividad
 in addition, also, furthermore	:	además
@@ -15,7 +15,6 @@ hole	:	agujero
 right away, right now	:	ahora mismo
 air conditioning, air conditioner	:	aire acondicionado
 happiness, joy	:	alegría
-accommodation	:	alojamiento
 accommodation	:	alojamiento
 tall / high, senior (position)	:	alto
 friend	:	amigo
@@ -414,7 +413,7 @@ bring	:	traer
 suit, dress, costume	:	traje
 calm, peace, relief	:	tranquilidad
 transport	:	transporte
-manner (also: deal, agreement)	:	trato
+manner (deal, agreement)	:	trato
 Shredder	:	trituradora
 unity	:	unidad
 united	:	unido
@@ -426,7 +425,7 @@ neighbour	:	vecino
 sell	:	vender
 come	:	venir
 sale	:	venta
-see/watch (a television series)	:	ver
+see/watch	:	ver
 get dressed	:	vestirse
 trip, journey	:	viaje
 business trip	:	viaje de negocios
