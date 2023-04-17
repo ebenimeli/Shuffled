@@ -89,7 +89,6 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 <div id = 'credits'>
 <span>by <a href = 'https://www.ebenimeli.org' target = '_blank'>Enrique Benimeli</a> · 2023</span>
 <span>
-    <a href = 'https://twitter.com/enriquebenimeli' target = '_blank'>@enriquebenimeli</a> · 
     <a href = 'https://twitter.com/esferatic' target = '_blank'>@esferatic</a>
 </span>
 <span>
