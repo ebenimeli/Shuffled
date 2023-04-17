@@ -1,0 +1,68 @@
+Seguridad : security
+Privacidad :  privacy
+Contraseña : Password
+Cifrado : Encryption
+Firewall : Firewall
+Antivirus : Antivirus
+Protección : protection
+Identidad : identity
+Ataque informático : Cyberattack
+Phishing : Phishing
+Malware : Malware
+Spyware : Spyware
+Seguridad de la red : Network security
+red: network
+Software malicioso : Malware
+Autenticación : Authentication
+Intrusión : Intrusion
+Seguridad: Security
+Privacidad: Privacy
+Cifrado: Encryption
+Contraseña: Password
+Firewall: Firewall
+Antivirus: Antivirus
+Ataque: Attack
+Phishing: Phishing
+Spyware: Spyware
+Red: Network
+Wifi: Wi-Fi
+Autenticación: Authentication
+Hacker: Hacker
+Virus: Virus
+Spam: Spam
+Protección: Protection
+Suplantación: Impersonation
+Identidad: Identity
+data: datos
+Anonimato: Anonymity
+Ransomware: Ransomware
+Protocolo: Protocol
+Encriptación :  encryption
+Correo electrónico:  e-email
+Nube: Cloud
+Copia de seguridad: Backup
+Servidor: Server
+Amenaza: Threat
+Actualización: Update
+Seguridad web: Web security
+Certificado: certificate
+Enrutador: Router
+Fraude: Fraud
+Acceso: Access
+Criptomoneda: Cryptocurrency
+Cibercrimen: Cybercrime
+Política de seguridad: Security policy
+Buzón: mailbox
+Autenticación de dos factores: Two-factor authentication
+Autorización: Authorization
+Ataque de denegación de servicio: Denial of service attack
+Biometría: Biometrics
+Configuración :  configuration
+Control de acceso: Access control
+Cuenta de usuario: User account
+Detección :  detection
+vulnerabilidades: Vulnerability 
+Firma:  signature
+Gusanos: Worms
+fuente: Source 
+Inicio de sesión: Login
