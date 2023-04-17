@@ -81,8 +81,8 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 
 <div id="playagain" class="container">
     <div class="center">
-        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $topic; ?>">Repetir</a>
-        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $next_random; ?>">Al azar</a>
+        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $topic; ?>">Repetir este tema</a>
+        <a href="https://www.esferatic.com/shuffled?topic=<?php echo $next_random; ?>">Otro tema al azar</a>
     </div>
 </div>
 
