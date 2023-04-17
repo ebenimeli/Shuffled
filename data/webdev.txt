@@ -1,0 +1,50 @@
+HTML: HTML
+CSS: CSS
+Página web: Web page
+Desarrollo web: Web development
+Diseño web: Web design
+Lenguaje de marcas: Markup language
+Hojas de estilo en cascada: Cascading Style Sheets
+Elemento: Element
+Atributo: Attribute
+Etiqueta: Tag
+Encabezado: Header
+Pie de página: Footer
+Cuerpo: Body
+Sección: Section
+División: Division
+Lista: List
+Lista ordenada: Ordered list
+Lista desordenada: Unordered list
+Elemento de lista: List item
+Enlace: Link
+Imagen: Image
+Formulario: Form
+Campo de entrada: Input field
+Etiqueta de formulario: Form label
+Botón: Button
+Selección: Select
+Opción: Option
+Área de texto: Text area
+Grupo de botones de opción: Radio button group
+Casilla de verificación: Checkbox
+Leyenda: Legend
+Campos de formulario requeridos: Required form fields
+Campos de formulario opcionales: Optional form fields
+Tabla: Table
+Fila de tabla: Table row
+Celda de tabla: Table cell
+Encabezado de tabla: Table header
+Pie de tabla: Table footer
+División de tabla: Table division
+Clase: Class
+Identificador: ID
+Selector: Selector
+Propiedad: Property
+Valor: Value
+Modelo de caja: Box model
+Margen: Margin
+Relleno: Padding
+Borde: Border
+Estilo: Style
+Color: Color
