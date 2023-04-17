@@ -143,8 +143,6 @@ team	:	equipo
 scan	:	escanear
 scanner	:	escáner
 choose, pick	:	escoger
-school	:	escolar
-write/type	:	escribir
 write/type	:	escribir
 desk (table) / desktop (computer(	:	escritorio
 sculptor	:	escultor
