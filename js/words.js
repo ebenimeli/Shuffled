@@ -5,7 +5,7 @@ window.addEventListener('load', preloadAudio);
 /* Settings */
 const nLettersCorrect = 0; // at least
 const maxWords = 10;
-const answerTime = 20;
+const answerTime = 15;
 
 var i = j = 0;
 var positions = [];
