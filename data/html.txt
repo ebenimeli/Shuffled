@@ -1,0 +1,23 @@
+Start and end of an HTML document.		:	<html>
+Enclose metadata about the document		:	<head>
+Enclose the main content		:	<body>
+Create a heading		:	<h1>
+Create a paragraph of text		:	<p>
+Create a hyperlink		:	<a>
+This tag is used to insert an image		:	<img>
+Create an unordered list		:	<ul>
+Create an ordered list		:	<ol>
+Create a block-level container for grouping  elements		:	<div>
+Create an inline container for grouping elements		:	<span>
+This tag is used to create a table		:	<table>
+This tag is used to create a row in a table		:	<tr>
+This tag is used to create a table header cell		:	<th>
+This tag is used to create a table data cell.		:	<td>
+This tag is used to create a form for user input.		:	<form>
+This tag is used to create various types of form controls		:	<input>
+Create a multiline text input control.		:	<textarea>
+This tag is used to create a dropdown list		:	<select>
+This tag is used to create the options of a dropdown list		:	<option>
+This tag is used to create a label for a form		:	<label>
+This tag is used to create an element that can be clicked		:	<button>
+This tag is used to include JavaScript code		:	<script>
