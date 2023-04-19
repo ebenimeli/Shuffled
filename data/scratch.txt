@@ -1,0 +1,40 @@
+Visual programming language for beginners: Scratch
+Drag and drop code components: Blocks
+Character or object in project: Sprite
+Background area of project: Stage
+Appearance of a sprite: Costume
+Audio added to project: Sound
+Movement of a sprite: Motion
+Trigger for script to start: Event
+Instructions for sprite to follow: Script
+Mathematical function used in script: Operator
+Value that can change in script: Variable
+Collection of data in script: List
+Repeated actions in script: Loop
+Conditional statement in script: If/Else
+Message sent to all sprites: Broadcast
+Duplicate of a sprite: Clone
+Tool to draw lines or shapes: Pen
+Detection of input from user or device: Sensing
+Notes added to code for readability: Comment
+Infinite loop in script: Forever
+Generates random numbers in script: Random
+True or false value in script: Boolean
+Pause script for set amount of time: Wait
+Measure of time in script: Timer
+Input device for user to interact: Keyboard
+Input device for user to interact: Mouse
+Input device for user to interact: Touch
+Measure of sound input in script: Loudness
+Live or recorded input in script: Video
+Smooth movement of sprite in script: Glide
+Toggle between two options in script: Switch
+Remainder in mathematical operation: Modulus
+Round down to nearest integer: Floor
+Round up to nearest integer: Ceiling
+Remove decimal places from number: Truncate
+Circular movement of sprite in script: Radial
+Horizontal axis in coordinate system: X-axis
+Vertical axis in coordinate system: Y-axis
+Tool for aligning sprites or objects: Grid
+Background image of stage: Backdrop
