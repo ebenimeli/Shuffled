@@ -19,7 +19,6 @@ Divisiones del libro: Capítulos
 División del texto en el libro: Párrafos
 Edición económica y portátil del libro: Libro de bolsillo
 Empresa que publica el libro: Editorial
-Encargado de mejorar un texto: Editor
 Extremo inferior del lomo del libro: Dedo del pie
 Figuras que aparecen en el libro: Personajes
 Grupo de edad para el que se recomienda el libro: Edad recomendada
@@ -53,12 +52,11 @@ Palabra o frase que se repite en varios versos o estrofas: Estribillo
 Palabras citadas en otro lugar: Referencias
 Palabras de dedicación del autor: Dedicatoria
 Palabras o frases destacadas: Resaltado
-Palabras traducidas en un glosario: Glosario
 Parte del libro donde se lee el título: Lomo
 Persona amante de los libros: Bibliófilo
 Persona que escribió el libro: Autor
 Persona que tradujo el libro a otro idioma: Traductor
-Personas que ayudan en una biblioteca: Bibliotecarios
+Persona que ayuda en una biblioteca: Bibliotecario
 Primera página del libro: Portada
 Primeras páginas del libro: Introducción
 Proceso de imprimir el libro: Impresión
