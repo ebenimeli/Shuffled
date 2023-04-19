@@ -1,58 +1,56 @@
-Hojas de un libro: Páginas
-Cubierta rígida del libro: Tapa dura
-Cubierta flexible del libro: Tapa blanda
-Primera página del libro: Portada
-Página posterior a la portada: Contraportada
-Parte del libro donde se lee el título: Lomo
-Lista de temas del libro: Índice
-Divisiones del libro: Capítulos
-Cita al inicio del libro: Epígrafe
-Introducción escrita por otra persona: Prólogo
-Primeras páginas del libro: Introducción
-Introducción escrita por el autor: Prefacio
-Dibujos o fotografías en el libro: Ilustraciones
-Representación visual de datos: Gráficos
-Representación gráfica de información: Diagramas
-Información organizada en filas y columnas: Tablas
-Lugar donde se guardan los libros: Biblioteca
-Lugar donde se colocan los libros: Estante
-Marca para recordar dónde se dejó de leer: Marcador de página
-Mueble donde se guardan los libros: Librero
-Proceso de unir las hojas del libro: Encuadernación
-Proceso de imprimir el libro: Impresión
-Versión del libro: Edición
-Número de identificación del libro: ISBN
-Crítica o comentario del libro: Reseña
-Palabras de dedicación del autor: Dedicatoria
-Código para acceder al libro electrónico: Contraseña
-Versión electrónica del libro: Ebook
-Versión en audio del libro: Audiolibro
-División del texto en el libro: Párrafos
-Notas escritas en el libro: Anotaciones
-Extremo inferior del lomo del libro: Dedo del pie
-Categoría literaria del libro: Género literario
-Argumento o historia del libro: Trama
-Figuras que aparecen en el libro: Personajes
-Voz que cuenta la historia del libro: Narrador
-Línea de poesía en el libro: Verso
-Grupo de versos en el libro: Estrofa
-Grupo de edad para el que se recomienda el libro: Edad recomendada
-Persona que escribió el libro: Autor
-Persona que tradujo el libro a otro idioma: Traductor
-Empresa que publica el libro: Editorial
-Derechos de autor del libro: Copyright
-Acción de tomar prestado el libro: Préstamo
 Acción de regresar el libro prestado: Devolución
-Libro muy popular y vendido: Bestseller
-Serie de libros relacionados entre sí: Saga
-Colección de obras literarias: Antología
-Persona amante de los libros: Bibliófilo
-Obsesión por coleccionar libros: Bibliomanía
-Edición económica y portátil del libro: Libro de bolsillo
+Acción de tomar prestado el libro: Préstamo
+Argumento o historia del libro: Trama
 Biblioteca en línea de libros electrónicos: Biblioteca digital
+Categoría literaria del libro: Género literario
+Cita al inicio del libro: Epígrafe
 Colección de libros de una persona: Biblioteca personal
-Protección adicional para la cubierta del libro: Sobrecubierta
+Colección de obras literarias: Antología
+Crítica o comentario del libro: Reseña
+Cubierta flexible del libro: Tapa blanda
+Cubierta rígida del libro: Tapa dura
+Código para acceder al libro electrónico: Contraseña
+Derechos de autor del libro: Copyright
+Dibujos o fotografías en el libro: Ilustraciones
+Divisiones del libro: Capítulos
+División del texto en el libro: Párrafos
+Edición económica y portátil del libro: Libro de bolsillo
+Empresa que publica el libro: Editorial
+Extremo inferior del lomo del libro: Dedo del pie
+Figuras que aparecen en el libro: Personajes
+Grupo de edad para el que se recomienda el libro: Edad recomendada
+Grupo de versos en el libro: Estrofa
+Hojas de un libro: Páginas
+Información organizada en filas y columnas: Tablas
+Introducción escrita por el autor: Prefacio
+Introducción escrita por otra persona: Prólogo
+Libro muy popular y vendido: Bestseller
 Libro que contiene información sobre diversos temas: Enciclopedia
 Libro que cuenta la vida de una persona: Biografía
 Libro que cuenta la vida del propio autor: Autobiografía
 Libro que explora y analiza un tema en particular: Ensayo
+Lista de temas del libro: Índice
+Lugar donde se colocan los libros: Estante
+Lugar donde se guardan los libros: Biblioteca
+Línea de poesía en el libro: Verso
+Marca para recordar dónde se dejó de leer: Marcador de página
+Mueble donde se guardan los libros: Librero
+Notas escritas en el libro: Anotaciones
+Número de identificación del libro: ISBN
+Obsesión por coleccionar libros: Bibliomanía
+Palabras de dedicación del autor: Dedicatoria
+Parte del libro donde se lee el título: Lomo
+Persona amante de los libros: Bibliófilo
+Persona que escribió el libro: Autor
+Persona que tradujo el libro a otro idioma: Traductor
+Primera página del libro: Portada
+Primeras páginas del libro: Introducción
+Proceso de imprimir el libro: Impresión
+Proceso de unir las hojas del libro: Encuadernación
+Protección adicional para la cubierta del libro: Sobrecubierta
+Página posterior a la portada: Contraportada
+Serie de libros relacionados entre sí: Saga
+Versión del libro: Edición
+Versión electrónica del libro: Ebook
+Versión en audio del libro: Audiolibro
+Voz que cuenta la historia del libro: Narrador
