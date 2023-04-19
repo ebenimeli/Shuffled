@@ -21,3 +21,13 @@ This tag is used to create the options of a dropdown list		:	<option>
 This tag is used to create a label for a form		:	<label>
 This tag is used to create an element that can be clicked		:	<button>
 This tag is used to include JavaScript code		:	<script>
+Header section of a document or a section within the document:<header>
+Define the footer section of a document:<footer>
+Define a container for navigation links:<nav>
+Define a section of the document that is not the main:<aside>
+A section of the document:<section>
+Define an independent piece of content:<article>
+Define the main content of the document:<main>
+This tag is used to encapsulate media content:<figure>
+This tag is used to provide a caption for a media element:<figcaption>
+This tag is used to display a progress bar:<progress>
