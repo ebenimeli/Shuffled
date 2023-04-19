@@ -2,10 +2,13 @@ Acción de regresar el libro prestado: Devolución
 Acción de tomar prestado el libro: Préstamo
 Argumento o historia del libro: Trama
 Biblioteca en línea de libros electrónicos: Biblioteca digital
+Breve descripción del contenido de un libro en la cubierta: Sinopsis
 Categoría literaria del libro: Género literario
 Cita al inicio del libro: Epígrafe
 Colección de libros de una persona: Biblioteca personal
 Colección de obras literarias: Antología
+Conjunto de cuentos o historias cortas en un libro: Recopilación
+Conjunto de palabras que se repiten en un texto: Refrán
 Crítica o comentario del libro: Reseña
 Cubierta flexible del libro: Tapa blanda
 Cubierta rígida del libro: Tapa dura
@@ -16,11 +19,14 @@ Divisiones del libro: Capítulos
 División del texto en el libro: Párrafos
 Edición económica y portátil del libro: Libro de bolsillo
 Empresa que publica el libro: Editorial
+Encargado de mejorar un texto: Editor
 Extremo inferior del lomo del libro: Dedo del pie
 Figuras que aparecen en el libro: Personajes
 Grupo de edad para el que se recomienda el libro: Edad recomendada
 Grupo de versos en el libro: Estrofa
+Hoja con información del libro en la cubierta: Guarda
 Hojas de un libro: Páginas
+Hojas en blanco para anotaciones al final de un libro: Páginas de notas
 Información organizada en filas y columnas: Tablas
 Introducción escrita por el autor: Prefacio
 Introducción escrita por otra persona: Prólogo
@@ -30,25 +36,38 @@ Libro que cuenta la vida de una persona: Biografía
 Libro que cuenta la vida del propio autor: Autobiografía
 Libro que explora y analiza un tema en particular: Ensayo
 Lista de temas del libro: Índice
+Lugar de almacenamiento de libros no disponibles para préstamo: Reserva
 Lugar donde se colocan los libros: Estante
 Lugar donde se guardan los libros: Biblioteca
 Línea de poesía en el libro: Verso
+Línea que separa párrafos: Sangría
 Marca para recordar dónde se dejó de leer: Marcador de página
+Material para marcar información en un libro: Subrayador
 Mueble donde se guardan los libros: Librero
+Muestra para comprobar impresión: Prueba de color
+Normas de escritura y presentación de texto: Estilo
 Notas escritas en el libro: Anotaciones
 Número de identificación del libro: ISBN
 Obsesión por coleccionar libros: Bibliomanía
+Palabra o frase que se repite en varios versos o estrofas: Estribillo
+Palabras citadas en otro lugar: Referencias
 Palabras de dedicación del autor: Dedicatoria
+Palabras o frases destacadas: Resaltado
+Palabras traducidas en un glosario: Glosario
 Parte del libro donde se lee el título: Lomo
 Persona amante de los libros: Bibliófilo
 Persona que escribió el libro: Autor
 Persona que tradujo el libro a otro idioma: Traductor
+Personas que ayudan en una biblioteca: Bibliotecarios
 Primera página del libro: Portada
 Primeras páginas del libro: Introducción
 Proceso de imprimir el libro: Impresión
+Proceso de revisión antes de publicación: Edición
 Proceso de unir las hojas del libro: Encuadernación
 Protección adicional para la cubierta del libro: Sobrecubierta
 Página posterior a la portada: Contraportada
+Sección de fuentes de información en un libro: Bibliografía
+Sección de instrucciones en un libro: Instrucciones
 Serie de libros relacionados entre sí: Saga
 Versión del libro: Edición
 Versión electrónica del libro: Ebook
