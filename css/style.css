@@ -151,3 +151,38 @@ div#playagain div a {
     text-decoration: none;
 
 }
+
+#topics-menu {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;
+}
+
+#topics-menu a {
+    text-decoration: none;
+    color: white;
+}
+
+#topics {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;  
+}
+
+#topics h1 {
+    font-size: 20px;
+    font-variant: small-caps;
+    text-decoration: none;
+    color: white;
+}
+
+#topics a {
+    font-size: 16px;
+    font-variant: small-caps;
+    text-decoration: none;
+    color: white;
+    display: block;
+}

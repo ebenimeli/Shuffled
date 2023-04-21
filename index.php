@@ -63,6 +63,10 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 
 <body onload = 'preloadAudio()'>
 
+<div id="topics-menu">
+    <a href="topics.html">[Temas]</a>
+</div>
+
 <div id = 'num'></div>
 <div id = 'word'></div>
 
