@@ -37,41 +37,9 @@ Groups and styles HTML elements:Class
 Defines an HTML element:Tag
 Consists of a start tag, content, and an end tag:Element
 Provides additional information about an HTML element:Attribute
-
-Anchor - Creates a hyperlink to another webpage or document.
-DOCTYPE - Declares the HTML version and type.
-Form - Collects user input and submits it.
-Meta tag - Provides metadata about an HTML document.
-Headings - Create hierarchical structure and organization.
-Paragraph - Creates a block of text.
-Image - Embeds images into an HTML document
-
-
-ID - Identifies a unique HTML element.
-Style - Applies styles directly to an HTML element.
-Display - Specifies the type of box model.
-Position - Positions an HTML element.
-Media query - Applies styles based on device characteristics.
-
-
-
-Radio - Creates a radio button for user selection.
-Textarea - Creates a multi-line input field.
-Bold - Makes text bold.
-Italic - Makes text italic.
-Underline - Underlines text.
-Strike - Strikes through text.
-Superscript - Makes text smaller and above the line.
-Subscript - Makes text smaller and below the line.
-Horizontal line - Inserts a horizontal line.
-Entity - Represents a special character.
-
-Font-family - Specifies the font family for text.
-Font-size - Specifies the font size for text.
-Color - Specifies the color of text.
-Background-color - Specifies the background color of an element.
-Border - Specifies the border of an element.
-Margin - Specifies the space outside of an element.
-Padding - Specifies the space inside of an element.
-Display - Specifies how an element is displayed.
-Float - Positions an element to the left or right.
+Creates a hyperlink to another webpage or document:Anchor
+Declares the HTML version and type:DOCTYPE
+Collects user input and submits it:Form
+Provides metadata about an HTML document:Meta tag
+Create hierarchical structure and organization:Headings
+Identifies a unique HTML element:id
