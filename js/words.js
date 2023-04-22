@@ -6,15 +6,20 @@ window.addEventListener('load', preloadAudio);
 const nLettersCorrect = 0; // at least
 const maxWords = 10;
 const answerTime = 15;
+const countDownInterval = 1000;
+const timeoutIds = [];
+var toid = 0;
+var nqt = 0; // next question time (timer id)
 
+var speed = 1000;
 var i = j = 0;
 var positions = [];
 var indices = [];
 const randomItems = [];
 const randomItemsSrc = [];
 
-const nextQuestionTime = answerTime + 3; // ms
-points = 0;
+var nextQuestionTime = answerTime + 3; // ms
+var points = 0;
 var correct = 0;
 var segundos = 0;
 var randomWord = "";
@@ -129,20 +134,17 @@ function shuffleWord(wordArray, numExcluded) {
 }
 
 
-
 /**
  * 
  */
 function newWord() {
+    speed = 1000;
+    //nextQuestionTime = answerTime + 3;
     correctCounted = false;
-
     correct = 0;
     pointsAdded = false;
-    document.getElementById("solution").innerText = "";
-    document.getElementById("guess").value = "";
-    document.getElementById("guess").style.backgroundColor = "white";
-    document.getElementById("guess").style.color = "black";
-    document.getElementById("guess").focus();
+
+    clearInputWord();
 
     randomWord = randomItems[i];
     randomWordSrc = randomItemsSrc[i];
@@ -163,52 +165,112 @@ function newWord() {
         }
     }
 
-    // Replace the text content of the paragraph with the new string
     document.getElementById("word").innerHTML = newText;
-    //  document.getElementById("num").innerText = "#" + (j + 1);
-
     document.getElementById("num").innerText = randomItemsSrc[j];
 
-    showWord(answerTime);
     i = i + 1;
     j = j + 1;
-    if (j < maxWords) {
-        setTimeout(function () {
+
+    showWord(answerTime, j);
+
+    /*
+    if (j == maxWords) {
+        toid = setTimeout(function () {
+            gameOver();
+        }, nextQuestionTime*1000)
+    } else {
+        showWord(answerTime, j);
+    }
+    */
+
+}
+
+/**
+ * Game Over
+ */
+function gameOver() {
+    audioWin.play();
+    let inputElement = document.getElementById("guess");
+    inputElement.style.backgroundColor = "green";
+    inputElement.style.color = "white";
+    inputElement.value = "Bravo!";
+    inputElement.disabled = true;
+
+    document.getElementById("num").innerHTML = "";
+    document.getElementById("word").innerHTML = "";
+    document.getElementById("solution").innerHTML = "";
+    document.getElementById("credits").style.display = "block";
+    document.getElementById("playagain").style.display = "block";
+}
+/**
+ * 
+ */
+function clearInputWord() {
+    document.getElementById("solution").innerText = "";
+    document.getElementById("guess").value = "";
+    document.getElementById("guess").style.backgroundColor = "white";
+    document.getElementById("guess").style.color = "black";
+    document.getElementById("guess").focus();
+}
+
+/**
+ * 
+ * @param {*} seconds 
+ */
+function showWord(seconds, n) {
+    var div = document.getElementById("solution");
+
+    let timer = setInterval(function () {
+        audioTick = new Audio('media/tick.mp3');
+        audioTick.preload = 'auto';
+        audioTick.play();
+
+        if (correct == 1) {
+            if (!pointsAdded) {
+                addPoints(seconds);
+                pointsAdded = true;
+                clearInterval(timer);
+                appendToSummary(randomWordSrc + " = " + randomWord);
+            }
+            checkProgress(n);
+            div.innerHTML = randomWord;
+            correct = -1;
+        }
+        div.innerHTML = seconds;
+
+        seconds--;
+
+        if (seconds === 0) {
+            clearInterval(timer);
+            div.innerHTML = 0;
+            if (correct == 1) {
+                audioCorrect.play();
+                correct = -1;
+            }
+            if (correct == 0) {
+                wrongWord();
+                audioWrong.play();
+                div.innerHTML = randomWord;
+            }
             appendToSummary(randomWordSrc + " = " + randomWord);
+
+            checkProgress(n);
+        }
+    }, countDownInterval);
+}
+
+/**
+ * 
+ * @param {*} n 
+ */
+function checkProgress(n) {
+    if (n < maxWords) {
+        setTimeout(function () {
             audioNext.play();
             newWord();
-        }, nextQuestionTime * 1000);
-    }
-    if (j == (maxWords)) {
-        appendToSummary(randomWordSrc + " = " + randomWord);
-        setTimeout(function () {
-            audioWin.play();
-            document.getElementById("guess").style.backgroundColor = "green";
-            document.getElementById("guess").style.color = "white";
-            document.getElementById("guess").value = "Bravo!";
-            document.getElementById("guess").disabled = true;
-            
-            document.getElementById("num").innerHTML = "";
-            document.getElementById("word").innerHTML = "";
-            document.getElementById("solution").innerHTML = "";
-
-            document.getElementById("credits").style.display = "block";
-
-            document.getElementById("playagain").style.display = "block";
-
-
-            // REVISAR ESTO
-            const twLink = document.getElementById("twshare");
-            twtext = wcorrect + "/" + maxWords + "%20·%20" + points + "%20puntos!";
-
-            twhref = "https://twitter.com/intent/tweet?ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Eshare%7Ctwgr%5E&amp;text=" + twtext + "&amp;url=http%3A%2F%2Fwww.ebenimeli.org%2Fwords&amp;via=enriquebenimeli";
-            /*
-            var link = document.createElement('a');
-            link.setAttribute('href', twhref);
-            link.textContent = 'Tweet!';
-            document.getElementById("twshare").appendChild(link);
-            */
-        }, nextQuestionTime * 1000)
+        }, 3000);
+    } else {
+        gameOver();
     }
 }
 
@@ -216,7 +278,7 @@ function newWord() {
  * 
  * @param {*} segundos 
  */
-function showWord(segundos) {
+function showWord2(segundos) {
     var div = document.getElementById("solution");
     if (segundos > 0) {
         audioTick = new Audio('media/tick.mp3');
@@ -226,14 +288,19 @@ function showWord(segundos) {
             if (!pointsAdded) {
                 addPoints(segundos);
                 pointsAdded = true;
+                speed = 100;
             }
             div.innerHTML = randomWord;
             correct = -1;
+            clearTimeout(nqt);
         }
-        setTimeout(function () { showWord(segundos - 1); }, 1000);
+        toid = setTimeout(function () { showWord(segundos - 1); }, speed);
+        timeoutIds.push(toid);
         div.innerHTML = segundos;
     } else {
         // Time out!
+        clearTimers();
+        speed = 1000; // ??
         div.innerHTML = 0;
         if (correct == 1) {
             audioCorrect.play();
@@ -247,32 +314,52 @@ function showWord(segundos) {
     }
 }
 
+function clearTimers() {
+    timeoutIds.forEach(timeoutId => {
+        clearTimeout(timeoutId);
+    });
+}
+
 //showWord(10);
 
-const inputTexto = document.getElementById("guess");
+const inputText = document.getElementById("guess");
 
-inputTexto.addEventListener("keydown", function (event) {
-    if (event.key === "Enter") { // si se presiona Enter
-        const textoIntroducido = event.target.value;
-        if (textoIntroducido === randomWord) { // si el texto introducido es igual al string determinado
-            audioCorrect.play();
-            document.getElementById("guess").style.backgroundColor = "green";
-            document.getElementById("guess").style.color = "white";
-            segundos = 2;
-            correct = 1;
-            if (correctCounted == false) {
-                wcorrect = wcorrect + 1;
-            }
-            correctCounted = true;
-            document.getElementById("points").innerText = wcorrect + "/" + maxWords + " · " + points + " puntos";
-        } else {
-            correct = 0;
-            subtractPoints(1);
-            wrongWord();
-        }
+inputText.addEventListener("keyup", function (event) {
+    const theText = event.target.value;
+    const isCorrect = checkWord(theText, randomWord);
+
+    if (!isCorrect && event.key === "Enter") { // si se presiona Enter
+        correct = 0;
+        subtractPoints(1);
+        wrongWord();
     }
+
 });
 
+/**
+ * 
+ * @param {*} enteredWord 
+ * @param {*} randomWord 
+ * @returns 
+ */
+function checkWord(enteredWord, randomWord) {
+    if (enteredWord === randomWord) { // si el texto introducido es igual al string determinado
+        audioCorrect.play();
+        document.getElementById("guess").style.backgroundColor = "green";
+        document.getElementById("guess").style.color = "white";
+        //segundos = 2;
+        correct = 1;
+        if (correctCounted == false) {
+            wcorrect = wcorrect + 1;
+        }
+        correctCounted = true;
+        document.getElementById("points").innerText = wcorrect + "/" + maxWords + " · " + points + " puntos";
+        return true;
+    } else {
+        return false;
+    }
+
+}
 
 function addPoints(p) {
     points = points + p;
@@ -317,6 +404,6 @@ function appendToSummary(text) {
 }
 
 const wordInput = document.getElementById('guess');
-wordInput.addEventListener('input', function() {
-  this.value = this.value.toUpperCase();
+wordInput.addEventListener('input', function () {
+    this.value = this.value.toUpperCase();
 });

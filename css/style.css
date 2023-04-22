@@ -98,6 +98,9 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: 1px solid black;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
 }
 
 #word span {
@@ -163,7 +166,15 @@ div#playagain div a {
 #topics-menu a {
     text-decoration: none;
     color: white;
-}
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    color: black;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;}
 
 #topics {
     font-family: Verdana, Geneva, Tahoma, sans-serif;

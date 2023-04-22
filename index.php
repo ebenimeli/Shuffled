@@ -2,7 +2,7 @@
 
 $topic = 'general-es-en';
 
-$next_random = "data_" . rand(1, 13);
+$next_random = "data_" . rand(1, 15);
 
 if ( !isset( $_GET[ 'topic' ] ) ) {
     $random_number = rand(1, 14);
@@ -64,7 +64,7 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 <body onload = 'preloadAudio()'>
 
 <div id="topics-menu">
-    <a href="topics.html">[Temas]</a>
+    <a href="topics.html">Temas</a>
 </div>
 
 <div id = 'num'></div>
