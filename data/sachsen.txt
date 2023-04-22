@@ -20,7 +20,6 @@
 17,574 : Grimma
 18,687 : Torgau
 18,518 : Crimmitschau
-16,258 : Schwarzenberg/Erzgeb.
 22,009 : Coswig
 14,190 : Löbau
 16,360 : Aue
@@ -34,32 +33,29 @@
 15,568 : Oschatz
 22,469 : Zittau
 18,551 : Großenhain
-11,492 : Falkenstein/Vogtl.
 13,198 : Schneeberg
 14,596 : Mittweida
 8,698 : Waldheim
 12,444 : Penig
 12,926 : Flöha
 8,091 : Radeburg
-11,620 : Lichtenstein/Sa.
 11,567 : Zschopau
-10,977 : Stollberg/Erzgeb.
-8,610 : Gornau/Erzgeb.
+10,977 : Stollberg
+8,610 : Gornau
 12,064 : Marienberg
-9,577 : Oelsnitz/Erzgeb.
+9,577 : Oelsnitz
 9,285 : Bad Lausick
 7,200 : Annaburg
 7,179 : Mügeln
 9,704 : Bad Düben
 7,332 : Roßwein
-16,184 : Weißwasser/O.L.
+16,184 : Weißwasser
 6,817 : Elsterberg
 7,184 : Colditz
 3,754 : Elstra
-3,325 : Königstein/Sächs. Schw.
-6,234 : Neustadt i. Sa.
+3,325 : Königstein
 7,642 : Bischofswerda
-5,991 : Schöneck/Vogtl.
+5,991 : Schöneck
 5,938 : Klingenthal
 5,630 : Schmölln-Putzkau
 5,370 : Strehla
