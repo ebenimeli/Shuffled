@@ -251,8 +251,8 @@ function showWord(seconds, n) {
                 wrongWord();
                 audioWrong.play();
                 div.innerHTML = randomWord;
+                appendToSummary(randomWordSrc + " = " + randomWord);
             }
-            appendToSummary(randomWordSrc + " = " + randomWord);
 
             checkProgress(n);
         }
