@@ -1,173 +1,159 @@
-La silla : Der Stuhl
-La mesa : Der Tisch
-El sofá : Das Sofa
-La cama : Das Bett
-El armario : Der Schrank
-La estantería : Das Regal
-El espejo : Der Spiegel
-La cortina : Der Vorhang
-La alfombra : Der Teppich
-La lámpara : Die Lampe
-El televisor : Der Fernseher
-El refrigerador : Der Kühlschrank
-El horno : Der Ofen
-El microondas : Die Mikrowelle
-El lavavajillas : Der Geschirrspüler
-La lavadora : Die Waschmaschine
-La secadora : Der Trockner
-La cafetera : Die Kaffeemaschine
-La tetera : Die Teekanne
-La olla : Der Topf
-La sartén : Die Pfanne
-La cubertería : Das Besteck
-La vajilla : Das Geschirr
-La copa : Das Glas
-La taza : Die Tasse
-La botella : Die Flasche
-La jarra : Der Krug
-El cepillo : Die Bürste
-La escoba : Der Besen
-La fregona : Der Mopp
-La aspiradora : Der Staubsauger
-La toalla : Das Handtuch
-La sábana : Das Bettlaken
-El edredón : Die Bettdecke
-La almohada : Das Kissen
-El cortaplumas : Die Schere
-El destornillador : Der Schraubenzieher
-El martillo : Der Hammer
-El clavo : Der Nagel
-El tornillo : Die Schraube
-La bombilla : Die Glühbirne
-El enchufe : Die Steckdose
-El interruptor : Der Schalter
-El radiador : Der Heizkörper
-El termostato : Der Thermostat
-La chimenea : Der Kamin
-El cenicero : Der Aschenbecher
-El mantel : Die Tischdecke
-La servilleta : Die Serviette
-El mantel individual : Das Platzset
-El hervidor : Der Wasserkocher
-La tostadora : Der Toaster
-La batidora : Der Mixer
-La licuadora : Der Entsafter
-El horno de microondas : Der Mikrowellenherd
-El tendedero : Der Wäscheständer
-La tabla de planchar : Das Bügelbrett
-La plancha : Das Bügeleisen
-El despertador : Der Wecker
-El radiodespertador : Der Radiowecker
-El escurridor : Das Abtropfgestell
-La jabonera : Die Seifenschale
-El portarrollos de papel higiénico : Der Toilettenpapierhalter
-La nevera : Der Kühlschrank
-La cocina : Der Herd
-El lavabo : Das Waschbecken
-El bidé : Das Bidet
-La bañera : Die Badewanne
-La ducha : Die Dusche
-El grifo : Der Wasserhahn
-El inodoro : Die Toilette
-El espejo de aumento : Der Vergrößerungsspiegel
-La papelera : Der Papierkorb
-El organizador de cocina : Der Küchenorganizer
-El exprimidor : Der Entsafter
-La batidora de mano : Der Handmixer
-La batidora de vaso : Der Standmixer
-La picadora : Der Zerkleinerer
-La freidora : Der Fritteuse
-El tocadiscos : Der Plattenspieler
-El reproductor de CD : Der CD-Player
 El altavoz : Der Lautsprecher
-El proyector : Der Projektor
-El ordenador : Der Computer
-La impresora : Der Drucker
-El escáner : Der Scanner
-El ratón : Die Maus
-El teclado : Die Tastatur
-El escritorio : Der Schreibtisch
-La silla de escritorio : Der Bürostuhl
+El aparador : Der Sideboard
 El archivador : Der Aktenschrank
+El armario : Der Kleiderschrank
+El armario : Der Schrank
+El bidé : Das Bidet
+El brasero : Der Kohleofen
+El cabecero : Das Kopfteil
+El cable de alimentación : Das Netzkabel
+El cargador : Das Ladegerät
+El cenicero : Der Aschenbecher
+El cepillo : Die Bürste
+El clavo : Der Nagel
+El cojín : Das Kissen
+El colchón : Die Matratze
+El cortaplumas : Die Schere
+El deshumidificador : Der Luftentfeuchter
+El despertador : Der Wecker
+El destornillador : Der Schraubenzieher
+El detector de humo : Der Rauchmelder
+El edredón : Die Bettdecke
+El enchufe : Die Steckdose
+El escritorio : Der Schreibtisch
+El escurridor : Das Abtropfgestell
+El escáner : Der Scanner
+El espejo : Der Spiegel
+El espejo de aumento : Der Vergrößerungsspiegel
+El espejo de cuerpo entero : Der Ganzkörperspiegel
+El estor : Der Rollo
+El exprimidor : Der Entsafter
+El exprimidor eléctrico : Der Elektrische Entsafter
+El fregadero : Das Spülbecken
+El grifo : Der Wasserhahn
+El hervidor : Der Wasserkocher
+El hornillo de gas : Der Gasherd
+El horno : Der Ofen
+El horno de microondas : Der Mikrowellenherd
+El humidificador : Der Luftbefeuchter
+El inodoro : Die Toilette
+El interruptor : Der Schalter
+El lavabo : Das Waschbecken
+El lavavajillas : Der Geschirrspüler
+El lavavajillas : Der Geschirrspüler
+El mantel : Die Tischdecke
+El mantel individual : Das Platzset
+El martillo : Der Hammer
+El microondas : Die Mikrowelle
+El microondas : Die Mikrowelle
+El molinillo de café : Die Kaffeemühle
+El mueble para TV : Das TV-Möbel
+El ordenador : Der Computer
+El organizador de cocina : Der Küchenorganizer
+El portarrollos de papel higiénico : Der Toilettenpapierhalter
 El portátil : Der Laptop
+El proyector : Der Projektor
+El radiador : Der Heizkörper
+El radiador eléctrico : Der Elektroheizkörper
+El radiodespertador : Der Radiowecker
+El ratón : Die Maus
+El refrigerador : Der Kühlschrank
+El reproductor de CD : Der CD-Player
+El robot de cocina : Der Küchenroboter
+El secador de pelo : Der Haartrockner
+El sillón : Der Sessel
+El sofá : Das Sofa
+El sofá : Das Sofa
+El somier : Der Lattenrost
+El taburete : Der Hocker
+El teclado : Die Tastatur
+El televisor : Der Fernseher
 El teléfono fijo : Das Festnetztelefon
 El teléfono móvil : Das Mobiltelefon
-El cargador : Das Ladegerät
-La funda para móvil : Die Handyhülle
-La teleasistencia : Der Hausnotruf
-La lámpara de escritorio : Die Schreibtischlampe
-La lámpara de pie : Die Stehlampe
-La lámpara de techo : Die Deckenlampe
-El espejo de cuerpo entero : Der Ganzkörperspiegel
-La cortina de baño : Der Duschvorhang
-El secador de pelo : Der Haartrockner
-La plancha para el pelo : Das Glätteisen
+El tendedero : Der Wäscheständer
+El termostato : Der Thermostat
+El termostato : Der Thermostat
+El termómetro : Das Thermometer
+El timbre : Die Klingel
+El tocadiscos : Der Plattenspieler
+El tocador : Der Frisiertisch
+El tornillo : Die Schraube
+El tostador : Der Toaster
+El ventilador : Der Ventilator
+La alfombra : Der Teppich
+La almohada : Das Kissen
+La almohadilla térmica : Das Wärmekissen
+La aspiradora : Der Staubsauger
 La aspiradora de mano : Der Handstaubsauger
 La aspiradora sin cable : Der Akkustaubsauger
-El ventilador : Der Ventilator
-El radiador eléctrico : Der Elektroheizkörper
-El humidificador : Der Luftbefeuchter
-El deshumidificador : Der Luftentfeuchter
-La almohadilla térmica : Das Wärmekissen
-La bolsa de agua caliente : Die Wärmflasche
-El termómetro : Das Thermometer
-El horno : Der Ofen
-La campana extractora : Die Dunstabzugshaube
-La encimera : Die Arbeitsplatte
-El fregadero : Das Spülbecken
-La lavadora : Die Waschmaschine
-La secadora : Der Trockner
-La plancha : Das Bügeleisen
-El tendedero : Der Wäscheständer
-El lavavajillas : Der Geschirrspüler
-El microondas : Die Mikrowelle
-La cafetera : Die Kaffeemaschine
-El tostador : Der Toaster
-El molinillo de café : Die Kaffeemühle
-El exprimidor eléctrico : Der Elektrische Entsafter
-El robot de cocina : Der Küchenroboter
+La batidora : Der Mixer
+La batidora de mano : Der Handmixer
 La batidora de varillas : Der Handrührer
-La freidora sin aceite : Der Heißluftfritteuse
-La tostadora de pan : Der Brottoaster
-La sandwichera : Der Sandwichmaker
-El hornillo de gas : Der Gasherd
-La estufa : Der Holzofen
-El brasero : Der Kohleofen
-La chimenea : Der Kamin
-El radiador : Der Heizkörper
-El termostato : Der Thermostat
-El interruptor : Der Schalter
+La batidora de vaso : Der Standmixer
+La bañera : Die Badewanne
+La bolsa de agua caliente : Die Wärmflasche
 La bombilla : Die Glühbirne
-El enchufe : Die Steckdose
-El cable de alimentación : Das Netzkabel
-El detector de humo : Der Rauchmelder
-La cerradura : Das Schloss
-La llave : Der Schlüssel
-El timbre : Die Klingel
-La persiana : Der Rollladen
-La cortina : Der Vorhang
-El estor : Der Rollo
-La mosquitera : Das Fliegengitter
-El colchón : Die Matratze
-El somier : Der Lattenrost
-La almohada : Das Kissen
-La sábana : Das Bettlaken
-La funda nórdica : Der Bettbezug
-El edredón : Die Bettdecke
-El armario : Der Kleiderschrank
-La cómoda : Die Kommode
-El tocador : Der Frisiertisch
-La lámpara de noche : Die Nachttischlampe
-La cama : Das Bett
-El cabecero : Das Kopfteil
-El sofá : Das Sofa
-El sillón : Der Sessel
+La botella : Die Flasche
 La butaca : Der Ohrensessel
-El taburete : Der Hocker
+La cafetera : Die Kaffeemaschine
+La cafetera : Die Kaffeemaschine
+La cama : Das Bett
+La campana extractora : Die Dunstabzugshaube
+La cerradura : Das Schloss
+La chimenea : Der Kamin
+La chimenea : Der Kamin
+La cocina : Der Herd
+La copa : Das Glas
+La cortina : Der Vorhang
+La cortina de baño : Der Duschvorhang
+La cubertería : Das Besteck
+La cómoda : Die Kommode
+La ducha : Die Dusche
+La encimera : Die Arbeitsplatte
+La escoba : Der Besen
+La estantería : Das Regal
+La estufa : Der Holzofen
+La fregona : Der Mopp
+La freidora : Der Fritteuse
+La freidora sin aceite : Der Heißluftfritteuse
+La funda nórdica : Der Bettbezug
+La funda para móvil : Die Handyhülle
+La impresora : Der Drucker
+La jabonera : Die Seifenschale
+La jarra : Der Krug
+La lavadora : Die Waschmaschine
+La licuadora : Der Entsafter
+La llave : Der Schlüssel
+La lámpara : Die Lampe
+La lámpara de escritorio : Die Schreibtischlampe
+La lámpara de noche : Die Nachttischlampe
+La lámpara de pie : Die Stehlampe
+La lámpara de techo : Die Deckenlampe
+La mesa : Der Tisch
 La mesa de comedor : Der Esstisch
+La mosquitera : Das Fliegengitter
+La nevera : Der Kühlschrank
+La olla : Der Topf
+La papelera : Der Papierkorb
+La persiana : Der Rollladen
+La picadora : Der Zerkleinerer
+La plancha : Das Bügeleisen
+La plancha para el pelo : Das Glätteisen
+La sandwichera : Der Sandwichmaker
+La sartén : Die Pfanne
+La secadora : Der Trockner
+La servilleta : Die Serviette
+La silla : Der Stuhl
 La silla de comedor : Der Esszimmerstuhl
-El aparador : Der Sideboard
+La silla de escritorio : Der Bürostuhl
+La sábana : Das Bettlaken
+La sábana : Das Bettlaken
+La tabla de planchar : Das Bügelbrett
+La taza : Die Tasse
+La teleasistencia : Der Hausnotruf
+La tetera : Die Teekanne
+La toalla : Das Handtuch
+La tostadora : Der Toaster
+La tostadora de pan : Der Brottoaster
+La vajilla : Das Geschirr
 La vitrina : Die Vitrine
-El mueble para TV : Das TV-Möbel
-La alfombra : Der Teppich
-El cojín : Das Kissen
