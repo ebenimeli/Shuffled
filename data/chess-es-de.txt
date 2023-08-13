@@ -1,0 +1,31 @@
+el rey : der König
+la reina : die Königin
+el alfil : der Läufer
+el caballo : das Pferd
+la torre : der Turm
+el peón : der Bauer
+el enroque : die Rochade
+el jaque : die Schach
+el jaque mate : das Schachmatt
+el tablero : das Schachbrett
+la casilla : das Feld
+la partida : die Partie
+el empate : das Remis
+la apertura : die Eröffnung
+el medio juego : das Mittelspiel
+el final : das Endspiel
+la estrategia : die Strategie
+la táctica : die Taktik
+el zugzwang : der Zugzwang
+la coronación : die Beförderung
+la captura al paso : der En-passant-Schlag
+el control de tiempo : die Zeitkontrolle
+la apertura española : die Spanische Partie
+el gambito : das Gambit
+la defensa siciliana : die Sizilianische Verteidigung
+el ataque doble : der Doppelangriff
+el sacrificio : das Opfer
+la posición : die Stellung
+el pat : das Patt
+la regla de los cincuenta movimientos : die Fünfzig-Züge-Regel
+el reloj de ajedrez : die Schachuhr
