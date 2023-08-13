@@ -1,0 +1,120 @@
+la manzana : der Apfel
+el plátano : die Banane
+la naranja : die Orange
+la uva : die Traube
+la fresa : die Erdbeere
+la pera : die Birne
+la piña : die Ananas
+la sandía : die Wassermelone
+el melón : die Melone
+el mango : der Mango
+el kiwi : die Kiwi
+el limón : die Zitrone
+la mandarina : die Mandarine
+la cereza : die Kirsche
+la frambuesa : die Himbeere
+el arándano : die Heidelbeere
+la uva pasa : die Rosine
+la ciruela : die Pflaume
+el melocotón : der Pfirsich
+el higo : die Feige
+la granada : der Granatapfel
+la grosella : die Johannisbeere
+la pomelo : das Pomelo
+la guayaba : die Guave
+el limoncillo : das Zitronengras
+la guanábana : die Stachelannone
+la espinaca : der Spinat
+la zanahoria : die Karotte/die Möhre
+el tomate : die Tomate
+la lechuga : der Kopfsalat
+el brócoli : der Brokkoli
+la coliflor : der Blumenkohl
+la cebolla : die Zwiebel
+el pimiento : die Paprika
+el calabacín : die Zucchini
+el pepino : die Gurke
+la papa/la patata : die Kartoffel
+la batata/el boniato : die Süßkartoffel
+la calabaza : der Kürbis
+la berenjena : die Aubergine
+el ajo : der Knoblauch
+el apio : der Sellerie
+el puerro : der Lauch/der Porree
+el champiñón : der Champignon/der Pilz
+la frijol/la judía : die Bohne
+el guisante : die Erbse
+el maíz : der Mais
+el espárrago : der Spargel
+la remolacha : die Rote Bete
+la calabacita : der Kürbiskern
+el rábano : das Radieschen
+el berro : die Brunnenkresse
+la acelga : der Mangold
+la alcachofa : die Artischocke
+el chayote : die Chayote
+la col : der Kohl
+la judía verde : die Grüne Bohne
+el nabo : die Rübe
+la rúcula : die Rauke
+la rúcula : die Rucola
+la frutilla : die Erdbeerfrucht
+el membrillo : die Quitte
+la pitahaya : die Pitahaya
+la cereza ácida : die Sauerkirsche
+la grosella negra : die Schwarze Johannisbeere
+el zapote : die Sapote
+el caqui : die Kaki
+la chirimoya : die Chirimoya
+el pomelo rosa : die Rosa Grapefruit
+la nectarina : die Nektarine
+la mora : die Brombeere
+el lichi : die Lychee
+la granadilla : die Passionsfrucht
+la mora de zarza : die Himbeere
+la grosella espinosa : die Stachelbeere
+el açaí : die Açaí
+la fruta de la pasión : die Maracuja
+el guayabo : der Guavenbaum
+el cacao : der Kakao
+el durian : die Durianfrucht
+la yuca : die Maniokwurzel
+el rábano picante : der Meerrettich
+el jengibre : der Ingwer
+el cardo : die Artischockenstaude
+la chirivía : die Pastinake
+el pimiento morrón : die Paprika
+la endibia : die Endivie
+la escarola : die Escarole
+el nabo sueco : die Steckrübe
+el nabo forrajero : die Futterrübe
+el puerro : der Lauch
+el eneldo : der Dill
+el rábano : das Radieschen
+el pepino de mar : die Seegurke
+el alga nori : das Nori-Alge
+la lechuga romana : der Römersalat
+el cebollino : die Schnittlauchzwiebel
+la avena : die Haferflocken
+el trigo : der Weizen
+la cebada : die Gerste
+el centeno : der Roggen
+la quinua : die Quinoa
+el mijo : das Hirse
+la col rizada : der Grünkohl
+el rábano silvestre : das Wildrübchen
+la raíz de bardana : die Klettenwurzel
+el hinojo : der Fenchel
+la zanahoria morada : die Violette Karotte
+el ñame : die Yamswurzel
+el ruibarbo : der Rhabarber
+el pimiento de Padrón : die Padrón-Paprika
+la achicoria : die Chicorée
+el chayote : die Chayote
+el orégano : der Oregano
+la menta : die Minze
+el cebollino de mar : der Meerlauch
+la calabaza espagueti : der Spaghettikürbis
+el cilantro : der Koriander
+la batata blanca : die Weiße Süßkartoffel
+la batata morada : die Violette Süßkartoffel
