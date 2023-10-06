@@ -126,7 +126,7 @@ producción: production
 perfil: profile
 programa: program
 proveer: provide
-memoria de acceso aleatorio: Random Access Memory (RAM)
+memoria de acceso aleatorio: Random Access Memory
 leer: read
 reiniciar: reboot
 recargar: recharge
@@ -135,7 +135,7 @@ permanecer: remain
 renombrar: rename
 reiniciar: reset
 restaurar: restore
-memoria de solo lectura: Read Only Memory (ROM)
+memoria de solo lectura: Read Only Memory
 ejecutar: run
 guardar: save
 escáner: scanner
