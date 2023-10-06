@@ -1,0 +1,192 @@
+access (verb):acceder
+adapter:adaptador	
+add:añadir
+all-in-one:todo en uno	
+application:aplicación	
+at:arroba	
+audio:sonido		
+battery:batería	
+port:puerto	
+binary:binario
+bit:bit
+board:placa	
+boot:arrancar	
+brain:cerebro	
+button:botón	
+byte:byte
+cable:cable	
+change:cambiar	
+character:carácter	
+check:comprobar	
+circuit:circuito	
+click:hacer clic	
+code:código	
+collect:recopilar	
+communicate:comunicar	
+component:componente	
+compress:comprimir
+computer:ordenador	
+computer room:aula de ordenadores	
+connect:conectar	
+connection:conexión	
+content:contenido	
+copy:copiar	
+central processing unit:unidad de procesamiento central	
+cursor:cursor	
+cut:cortar	
+data:datos	
+decimal:decimal	
+design:diseño	
+desktop:escritorio	
+device:dispositivo
+display:visualizar	
+divided by:dividido por	
+double-click:hacer doble clic	
+download:descargar
+drag:arrastrar
+drive:unidad	
+drop:soltar
+earphones:auriculares	
+edit:editar	
+edition:edición	
+electronic:electrónico	
+encoding:codificación	
+enter:introducir	
+environment:entorno	
+erase:borrar	
+external:externo	
+fast:rápido
+file:archivo	
+flash memory:memoria flash	
+folder:carpeta	
+functionality:funcionalidad	
+get:obtener
+hard disk:disco duro	
+hardware:hardware	
+headphones:auriculares	
+headset:auriculares	
+icon:icono	
+information:información	
+input:entrada	
+insert:insertar	
+internal:interno	
+internet:internet	
+internet browser:navegador de internet
+key:tecla	
+keyboard:teclado	
+shortcut:atajo
+laptop:portátil
+laser:láser	
+Local Area Network:red de área local	
+location:ubicación	
+log in:iniciar sesión
+log out:cerrar sesión	
+logical:lógico	
+machine:máquina
+made up of:compuesto de	
+magnetic:magnético	
+magnitude:magnitud	
+mail:correo	
+maximize:maximizar	
+memory:memoria	
+menu:menú	
+menu item:elemento de menú	
+message:mensaje	
+microphone:micrófono	
+minimize:minimizar	
+minus:menos (-)	
+screen:pantalla	
+motherboard:placa base	
+mouse:ratón	
+move:mover	
+network:red
+operate:operar	
+operating system:sistema operativo	
+optical:óptico	
+order:orden	
+organise:organizar	
+outlet:enchufe	
+output:salida
+password:contraseña	
+paste:pegar	
+personal computer:ordenador personal
+peripheral:periférico
+photo:foto	
+physical:físico	
+platter:plato	
+plug:enchufar	
+plus:más (+)	
+port:puerto	
+portable:portátil	
+power:alimentar (energía)
+press:pulsar
+printer:impresora	
+process:procesar	
+production:producción	
+profile:perfil	
+program:programa	
+provide:proveer	
+Random Access Memory (RAM):memoria de acceso aleatorio	
+read:leer	
+reboot:reiniciar
+recharge:recargar	
+record:grabar	
+remain:permanecer	
+rename:renombrar	
+reset:reiniciar
+restore:restaurar
+Read Only Memory (ROM):memoria de solo lectura	
+run:ejecutar		
+save:guardar	
+scanner:escáner	
+scientific:científico	
+screen:pantalla	
+scroll up:desplazarse arriba
+scroll down:desplazarse abajo
+scroll bar:barra de desplazamiento	
+search engine:buscador	
+send:enviar	
+serve:servir	
+server:servidor	
+shut down:apagar	
+slide:diapositiva	
+slot:ranura	
+smartphone:teléfono inteligente	
+software:software, programas	
+solid-state:estado sólido	
+speaker:altavoz	
+storage:almacenamiento	
+store:almacenar	
+submission:envío, entrega	
+submit:enviar, entregar	
+surf:navegar (por la web)	
+tab:pestaña	
+tablet:tableta	
+tap:pulsar (en una pantalla táctil)	
+task:tarea	
+technical:técnico	
+technology:tecnología	
+text box:caja de texto	
+touchscreen:pantalla táctil	
+tower:torre	
+trackball:bola de desplazamiento	
+trackpad:trackpad	
+transform:transformar	
+translate:traducir	
+turn off:apagar	
+turn on:encender	
+type:escribir (con un teclado)
+unit:unidad	
+upload:subir, cargar (a Internet)	
+user:usuario	
+username:nombre de usuario	
+video:vídeo	
+virtual:virtual
+web:web
+wide area network:red de área extensa	
+window:ventana	
+wire:cable	
+wireless:inalámbrico	
+workstation:estación de trabajo	
+write:escribir		
+zip:comprimir

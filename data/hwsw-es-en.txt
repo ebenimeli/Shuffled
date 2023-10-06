@@ -1,0 +1,192 @@
+acceder: access
+adaptador: adapter
+añadir: add
+todo en uno: all-in-one
+aplicación: application
+arroba: at
+sonido: audio
+batería: battery
+puerto: port
+binario: binary
+bit: bit
+placa: board
+arrancar: boot
+cerebro: brain
+botón: button
+byte: byte
+cable: cable
+cambiar: change
+carácter: character
+comprobar: check
+circuito: circuit
+hacer clic: click
+código: code
+recopilar: collect
+comunicar: communicate
+componente: component
+comprimir: compress
+ordenador: computer
+aula de ordenadores: computer room
+conectar: connect
+conexión: connection
+contenido: content
+copiar: copy
+unidad de procesamiento central: central processing unit
+cursor: cursor
+cortar: cut
+datos: data
+decimal: decimal
+diseño: design
+escritorio: desktop
+dispositivo: device
+visualizar: display
+dividido por: divided by
+hacer doble clic: double-click
+descargar: download
+arrastrar: drag
+unidad: drive
+soltar: drop
+auriculares: earphones
+editar: edit
+edición: edition
+electrónico: electronic
+codificación: encoding
+introducir: enter
+entorno: environment
+borrar: erase
+externo: external
+rápido: fast
+archivo: file
+memoria flash: flash memory
+carpeta: folder
+funcionalidad: functionality
+obtener: get
+disco duro: hard disk
+hardware: hardware
+auriculares: headphones
+auriculares: headset
+icono: icon
+información: information
+entrada: input
+insertar: insert
+interno: internal
+internet: internet
+navegador de internet: internet browser
+tecla: key
+teclado: keyboard
+atajo: shortcut
+portátil: laptop
+láser: laser
+red de área local: Local Area Network
+ubicación: location
+iniciar sesión: log in
+cerrar sesión: log out
+lógico: logical
+máquina: machine
+compuesto de: made up of
+magnético: magnetic
+magnitud: magnitude
+correo: mail
+maximizar: maximize
+memoria: memory
+menú: menu
+elemento de menú: menu item
+mensaje: message
+micrófono: microphone
+minimizar: minimize
+menos (-): minus
+pantalla: screen
+placa base: motherboard
+ratón: mouse
+mover: move
+red: network
+operar: operate
+sistema operativo: operating system
+óptico: optical
+orden: order
+organizar: organize
+enchufe: outlet
+salida: output
+contraseña: password
+pegar: paste
+ordenador personal: personal computer
+periférico: peripheral
+foto: photo
+físico: physical
+plato: platter
+enchufar: plug
+más (+): plus
+puerto: port
+portátil: portable
+alimentar (energía): power
+pulsar: press
+impresora: printer
+procesar: process
+producción: production
+perfil: profile
+programa: program
+proveer: provide
+memoria de acceso aleatorio: Random Access Memory (RAM)
+leer: read
+reiniciar: reboot
+recargar: recharge
+grabar: record
+permanecer: remain
+renombrar: rename
+reiniciar: reset
+restaurar: restore
+memoria de solo lectura: Read Only Memory (ROM)
+ejecutar: run
+guardar: save
+escáner: scanner
+científico: scientific
+pantalla: screen
+desplazarse arriba: scroll up
+desplazarse abajo: scroll down
+barra de desplazamiento: scroll bar
+buscador: search engine
+enviar: send
+servir: serve
+servidor: server
+apagar: shut down
+diapositiva: slide
+ranura: slot
+teléfono inteligente: smartphone
+software, programas: software
+estado sólido: solid-state
+altavoz: speaker
+almacenamiento: storage
+almacenar: store
+envío, entrega: submission
+enviar, entregar: submit
+navegar (por la web): surf
+pestaña: tab
+tableta: tablet
+pulsar (en una pantalla táctil): tap
+tarea: task
+técnico: technical
+tecnología: technology
+caja de texto: text box
+pantalla táctil: touchscreen
+torre: tower
+bola de desplazamiento: trackball
+trackpad: trackpad
+transformar: transform
+traducir: translate
+apagar: turn off
+encender: turn on
+escribir (con un teclado): type
+unidad: unit
+subir, cargar (a Internet): upload
+usuario: user
+nombre de usuario: username
+vídeo: video
+virtual: virtual
+web: web
+red de área extensa: wide area network
+ventana: window
+cable: wire
+inalámbrico: wireless
+estación de trabajo: workstation
+escribir: write
+comprimir: zip
