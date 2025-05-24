@@ -1,11 +1,10 @@
-Llamado interior hacia una profesión o forma de vida:Vocación
-Miembros del Instituto fundado por Champagnat, dedicados a la educación:Hermanos Maristas
+Llamada interior hacia una profesión o forma de vida:Vocación
+Miembros del Instituto fundado por Champagnat:Hermanos Maristas
 Persona que crea y establece una organización o institución:Fundador
 Lugar donde se fundó la primera comunidad marista:La Valla
 Persona que enseña y forma a otros:Educador
 Creencia en Dios y los principios religiosos:Fe
 Vivencia profunda de la fe y relación con lo divino:Espiritualidad
-Devoción y relación con la Virgen María:Marial
 Nombre de la Virgen, figura central en la espiritualidad marista:María
 Diálogo y conexión con Dios:Oración
 Propósito o tarea encomendada por Dios:Misión
@@ -13,7 +12,6 @@ Reconocimiento de los propios límites y dependencia de Dios:Humildad
 Don especial para una misión religiosa:Carisma
 Persona que da ejemplo de fe y compromiso:Testigo
 Valores y actitudes propios de los Hermanos Maristas:Espíritu Marista
-Capacidad de proponer ideas o métodos nuevos:Innovación
 Relación de hermandad entre los miembros de una comunidad:Fraternidad
 Renuncia a bienes materiales por solidaridad con los necesitados:Pobreza
 Estilo de vida simple y sin pretensiones:Simplicidad
@@ -41,7 +39,6 @@ Institución dedicada a la enseñanza:Escuela
 Amor al prójimo y a Dios:Caridad
 Educación del ser humano en todas sus dimensiones:Integral
 Grupo religioso con vida y misión común:Comunidad
-Esfuerzo constante y dedicación al trabajo:Espíritu de trabajo
 Amor fervoroso hacia lo divino:Devoción
 Vida sencilla y desapegada de lo material:Austeridad
 Obligación asumida con responsabilidad:Compromiso
@@ -50,7 +47,6 @@ Capacidad de superar dificultades:Resiliencia
 Defensa de la equidad y los derechos de todos:Justicia social
 Comprensión y compasión hacia los demás:Empatía
 Dar sin esperar nada a cambio:Gratuidad
-Estudio de la relación entre seres vivos y entorno:Ecología
 Armonía y ausencia de conflictos:Paz
 Unión y solidaridad entre personas:Fraternidad
 Grupo implicado en el proceso educativo:Comunidad
@@ -66,7 +62,6 @@ Actuar con sinceridad y honradez:Honestidad
 Fe en que lo mejor está por venir:Esperanza
 Cumplimiento responsable de obligaciones:Responsabilidad
 Ayuda mutua hacia los necesitados:Solidaridad
-Dar a cada uno lo que merece:Justicia
 Buscar siempre mejorar y superarse:Excelencia
 Ayudar por vocación y fe:Servicio
 Trato justo y sin discriminación:Equidad
@@ -95,24 +90,20 @@ Año en que nació Marcelino:1789
 Región francesa donde nació Marcelino:Loira
 Revolución que marcó su infancia:Revolución
 Hermana religiosa que influyó en su fe:Luisa
-Primeros estudios con maestro particular:Marlhes
-Tipo de vida en su infancia:Campo
 Estilo educativo marista:Integral
 Parte esencial de su formación:Oración
-Virtud que guía su vida:Fe
+Virtud que guía la vida de Marcelino:Fe
 Primeros seguidores jóvenes:Novicios
 Viaje espiritual con sus compañeros:Promesa
 Ciudad donde fundó el Instituto:Valla
 Año de fundación del Instituto:1817
-Primer hermano marista:Granjon
-Segundo hermano fundador:Audras
+Uno de los primeros hermanos marista:Granjon
+Uno de los primeros hermanos fundadores:Audras
 Actividad diaria en comunidad:Trabajo
-Actividad clave en su misión:Escuela
+Actividad clave en la misión marista:Escuela
 Escuela en zona sin recursos:Rural
-Fundador marista contemporáneo:Colin
 Lugar donde estudió teología Marcelino Champagnat:Lyon
 Documento con sus valores:Testamento
-Enfermedad en sus últimos años:Debilidad
 Formación religiosa básica:Seminario
 Compromiso con los enfermos:Caridad
 Cualidad ante las dificultades:Perseverancia
@@ -121,5 +112,4 @@ Papa que beatificó a Marcelino Champagnat:Pío XII
 Papa que canonizó a Marcelino Champagnat:Juan Pablo
 Aprobación final del Instituto:1851
 Comunidad donde murió Marcelino Champagnat:Hermitage
-Nombre del joven analfabeto:Montagne
-Obra de referencia del Instituto Marista:Reglamento
+Adolescente enfermo que inspiró la misión marista:Montagne
