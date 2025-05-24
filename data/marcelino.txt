@@ -87,7 +87,9 @@ Participación activa en la comunidad:Participación
 Agradecimiento sincero por lo recibido:Gratitud
 Honradez y coherencia en la vida:Integridad
 Año en que nació Marcelino:1789
-Región francesa donde nació Marcelino:Loira
+Región francesa (departamento) donde nació Marcelino:Loira
+Comuna francesa donde nació Marcelino:Marlhes
+Aldea francesa donde nació Marcelino:Le Rosey
 Revolución que marcó su infancia:Revolución
 Hermana religiosa que influyó en su fe:Luisa
 Estilo educativo marista:Integral
