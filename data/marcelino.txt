@@ -11,14 +11,13 @@ Propósito o tarea encomendada por Dios:Misión
 Reconocimiento de los propios límites y dependencia de Dios:Humildad
 Don especial para una misión religiosa:Carisma
 Persona que da ejemplo de fe y compromiso:Testigo
-Valores y actitudes propios de los Hermanos Maristas:Espíritu Marista
+Valores y actitudes propios:Espíritu
 Relación de hermandad entre los miembros de una comunidad:Fraternidad
 Renuncia a bienes materiales por solidaridad con los necesitados:Pobreza
 Estilo de vida simple y sin pretensiones:Simplicidad
 Entrega por una causa superior:Sacrificio
 Búsqueda de una vida unida a Dios:Santidad
 Seguidor e imitador de un maestro:Discípulo
-Sentimiento de unión familiar entre maristas:Espíritu de familia
 Ayuda mutua y compromiso con los demás:Solidaridad
 Referente a la vida religiosa y consagrada:Vocacional
 Personas no religiosas que comparten la misión marista:Laicos
@@ -34,7 +33,7 @@ Relación con lo sagrado o trascendente:Espiritual
 Actividad en nombre de la fe y la misión:Apostolado
 Confianza en un futuro mejor:Esperanza
 Apoyar en el crecimiento personal:Acompañamiento
-Vivencia de la fe marista según Champagnat:Espiritualidad marista
+Vivencia de la fe:Espiritualidad
 Institución dedicada a la enseñanza:Escuela
 Amor al prójimo y a Dios:Caridad
 Educación del ser humano en todas sus dimensiones:Integral
