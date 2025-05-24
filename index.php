@@ -75,6 +75,12 @@ if($topic == "marcelino") {
     <a href="topics.html">Temas</a>
 </div>
 
+<?php
+if($topic == "marcelino") {
+?>
+<div id="marcelino">San Marcelino Champagnat</div>
+<?php } ?>
+
 <div id = 'num'></div>
 <div id = 'word'></div>
 
