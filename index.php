@@ -99,7 +99,7 @@ if($topic == "marcelino") {
 </div>
 
 <div id = 'credits'>
-<span>by <a href = 'https://www.ebenimeli.org' target = '_blank'>Enrique Benimeli</a> · 2023</span>
+<span>by <a href = 'https://www.ebenimeli.org' target = '_blank'>Enrique Benimeli</a> · 2025</span>
 <span>
     <a href = 'https://twitter.com/esferatic' target = '_blank'>@esferatic</a>
 </span>
