@@ -63,6 +63,14 @@ for ( var i = 0; i < dictionary.length; i++ ) {
 
 <body onload = 'preloadAudio()'>
 
+<?php
+if($topic == "marcelino") {
+?>
+<div id="topBanner">
+    <span class="title"><a href="index.php">SHUFFLED</a></span> | <a href="https://www.esferatic.com" target="_blank">Esfera TIC</a><!-- | <a href="https://ebenimeli.substack.com/" target="_blank">La ventana digital</a> | <a href="https://notasalvuelo.substack.com/" target="_blank">Notas al vuelo</a> --> | <a href="https://www.ebenimeli.org/" target="_blank">Enrique Benimeli</a>
+</div>
+<?php } ?>
+
 <div id="topics-menu">
     <a href="topics.html">Temas</a>
 </div>

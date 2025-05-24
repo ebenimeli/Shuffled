@@ -197,3 +197,44 @@ div#playagain div a {
     color: white;
     display: block;
 }
+
+/* Banner fijo */
+#topBanner {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  color: black;
+  padding: 15px;
+  text-align: center;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+#topBanner span.title {
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+#topBanner a {
+  color: black;
+  text-decoration: none;
+}
+
+#topBanner a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+#topBanner a:visited {
+  color: black;
+}
+
+/* Espacio debajo del banner */
+.content {
+  padding-top: 80px; /* Igual o mayor que la altura del banner */
+  padding: 20px;
+}
