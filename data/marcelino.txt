@@ -35,13 +35,12 @@ Forma de ser sencilla y sin complicaciones:Sencillez
 Relación con lo sagrado o trascendente:Espiritual
 Actividad en nombre de la fe y la misión:Apostolado
 Confianza en un futuro mejor:Esperanza
-Acompañar y apoyar en el crecimiento personal:Acompañamiento
-Compromiso público con los principios religiosos:Profesión religiosa
+Apoyar en el crecimiento personal:Acompañamiento
 Vivencia de la fe marista según Champagnat:Espiritualidad marista
 Institución dedicada a la enseñanza:Escuela
 Amor al prójimo y a Dios:Caridad
-Educación integral del ser humano en todas sus dimensiones:Educación integral
-Grupo religioso con vida y misión común:Comunidad religiosa
+Educación del ser humano en todas sus dimensiones:Integral
+Grupo religioso con vida y misión común:Comunidad
 Esfuerzo constante y dedicación al trabajo:Espíritu de trabajo
 Amor fervoroso hacia lo divino:Devoción
 Vida sencilla y desapegada de lo material:Austeridad
@@ -54,7 +53,7 @@ Dar sin esperar nada a cambio:Gratuidad
 Estudio de la relación entre seres vivos y entorno:Ecología
 Armonía y ausencia de conflictos:Paz
 Unión y solidaridad entre personas:Fraternidad
-Grupo implicado en el proceso educativo:Comunidad educativa
+Grupo implicado en el proceso educativo:Comunidad
 Valoración de los demás:Respeto
 Aceptación de las diferencias:Tolerancia
 Actuar con coherencia y honestidad:Integridad
@@ -121,6 +120,6 @@ Primera aprobación oficial:Roma
 Papa que beatificó a Marcelino Champagnat:Pío XII
 Papa que canonizó a Marcelino Champagnat:Juan Pablo
 Aprobación final del Instituto:1851
-Comunidad donde murió:Hermitage
+Comunidad donde murió Marcelino Champagnat:Hermitage
 Nombre del joven analfabeto:Montagne
-Obra de referencia del Instituto:Reglamento
+Obra de referencia del Instituto Marista:Reglamento
